@@ -1,12 +1,10 @@
 html {
-    border: 1px solid red;
     height: 100%;
 }
 
 body {
     border-radius: 5px;
     height: 100%;
-    border: 1px solid red;
     margin: 0px;
 
 
@@ -33,5 +31,4 @@ body {
     height: 20vw;
     margin-top: 10vw;
     display: block;
-    border: 1px solid red;
 }
