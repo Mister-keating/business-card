@@ -1,0 +1,23 @@
+body{
+    margin:20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.Nick-img{
+    display: block;
+    width:150px;
+    height: 150px;
+}
+.card{
+    background:#ddebf8;
+    color:#2b2839;
+    display: flex;
+    justify-content:space-around;
+    width: 400px;
+    margin:0px auto;
+    padding:20px;
+    text-align:center;
+    border-bottom:#d8cefe solid 6px;
+}
+.blue-dot-bod{
+    border:1px dotted blue;
+}
